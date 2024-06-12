@@ -5,7 +5,7 @@ Repository for Diffractive Computational Granular Metamaterials: Evolving Barrie
 
 ## XOR Gate
 <p align="left">
-  <img src="https://github.com/AtoosaParsa/Diffractive-CGMMs/blob/main/xor.png"  width="500">
+  <img src="https://github.com/AtoosaParsa/Diffractive-CGMMs/blob/main/xor.png"  width="600">
 </p>
 <p float="left">
 <img src="https://github.com/AtoosaParsa/Diffractive-CGMMs/blob/main/config_xor_01.gif" width="250"/>
