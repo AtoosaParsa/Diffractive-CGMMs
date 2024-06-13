@@ -56,3 +56,7 @@ The code will be posted here soon. The following shows the results of an optimiz
 </table>
 </p>
 
+## Notes
+This repository is part of an ongoing project and will be updated continuously. Please do not hesitate to reach out if you are interested to know more!
+
+
