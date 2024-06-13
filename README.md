@@ -17,7 +17,11 @@ Repository for Diffractive Computational Granular Metamaterials: Evolving Barrie
 <table>
     <tbody>
         <tr>
-            <td rowspan=2>L1 Name</td>
+            <td rowspan=3>
+              <p align="left">
+              <img src="https://github.com/AtoosaParsa/Diffractive-CGMMs/blob/main/xor.png"  width="600">
+              </p>
+            </td>
             <td rowspan=1>L2 Name A</td>
         </tr>
         <tr>
