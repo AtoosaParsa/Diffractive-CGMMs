@@ -1,7 +1,7 @@
 # Diffractive-CGMMs
 Repository for Diffractive Computational Granular Metamaterials: Evolving Barriers in Sinusoidally-driven Granular Crystals
 
-The code will be posted here soon. The following shows the results of an optimization process where the goal was to find a configuration of fixed particles to realize a logic gate with the material. Here, some of the particles are fixed in place (shown in dark grey), so the input vibrations pass through the material or get filtered due to the interference or bending of the waves around the obstacles (fixed particles). Here I used an Evolutionary Algorithm to design the particle patterns so that the vibration of the red particle on the right computes the output of a logic function. The inputs are sinusoidal waves applied to the two inputs, the blue and green particles on the left.
+The following shows the results of an optimization process where the goal was to find a configuration of fixed particles to realize a logic gate with the material. Here, some of the particles are fixed in place (shown in dark grey), so the input vibrations pass through the material or get filtered due to the interference or bending of the waves around the obstacles (fixed particles). Here I used an Evolutionary Algorithm to design the particle patterns so that the vibration of the red particle on the right computes the output of a logic function. The inputs are sinusoidal waves applied to the two inputs, the blue and green particles on the left.
 
 
 ## AND Gate
